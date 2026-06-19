@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrashantRanpura
-- 👀 I’m interested in C++, C, Flutter, Android, iOS, Web, Tizen, LG WebOS, Windows, MacOS  
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in C++, C, Flutter, Android, iOS, Web, Linux, Tizen, LG WebOS, Windows, MacOS  
+- 🌱 I’m currently learning Laravel, Rust and Go
 - 💞️ I’m looking to collaborate on OS Projects
 - 📫 How to reach me ..
 
